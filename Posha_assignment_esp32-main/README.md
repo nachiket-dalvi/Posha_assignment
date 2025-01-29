@@ -1,4 +1,4 @@
-Nymble Assignment: Nachiket Dalvi
+Posha Assignment: Nachiket Dalvi
 
 - I have used esp32 to complete this particular assignment.
 - The code for the same is in 'esp32_project', inside the main folder. Rest of the files are configuration sfiles for the Cmake build process that esp-idf uses.
